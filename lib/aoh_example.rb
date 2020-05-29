@@ -24,7 +24,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  
+  return aoh[row][key]
   
   
 end
